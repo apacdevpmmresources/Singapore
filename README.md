@@ -1,1 +1,1 @@
-# This repo contains resources for the events happend in Singapore 
+# This repo contains resources for events that happened in Singapore. 
